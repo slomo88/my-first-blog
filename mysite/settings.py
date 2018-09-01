@@ -25,7 +25,7 @@ SECRET_KEY = 'yrd7h@_t5sga86^94_ermvx@8-o419i!6lbjgw9(8((#f4a*n!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywher.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 
 # Application definition
